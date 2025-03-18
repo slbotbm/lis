@@ -1,6 +1,9 @@
-def main():
-    print("Hello from lis!")
+import json
+import requests
 
-
-if __name__ == "__main__":
-    main()
+text = """
+"""
+summary = """
+"""
+link=""
+cognitive_map_pairs = []
