@@ -1,0 +1,286 @@
+[
+    [
+        "Nation's Wealth",
+        "Annual Labor"
+    ],
+    [
+        "Annual Labor",
+        "Produces Necessities & Conveniences"
+    ],
+    [
+        "Nation's Wealth",
+        "Prosperity Factors"
+    ],
+    [
+        "Prosperity Factors",
+        "Labor Quality"
+    ],
+    [
+        "Prosperity Factors",
+        "Productive Population Ratio"
+    ],
+    [
+        "Civilization Paradox",
+        "Savage Societies"
+    ],
+    [
+        "Civilization Paradox",
+        "Civilized Societies"
+    ],
+    [
+        "Savage Societies",
+        "High Labor, Low Wealth"
+    ],
+    [
+        "Civilized Societies",
+        "Supports Non-Workers, General Abundance"
+    ],
+    [
+        "Productive Population Ratio",
+        "Division of Labour"
+    ],
+    [
+        "Division of Labour",
+        "Key Productivity Driver"
+    ],
+    [
+        "Division of Labour",
+        "Three Productivity Mechanisms"
+    ],
+    [
+        "Three Productivity Mechanisms",
+        "Task Specialization Builds Skill"
+    ],
+    [
+        "Three Productivity Mechanisms",
+        "Eliminates Task-Switching Time"
+    ],
+    [
+        "Three Productivity Mechanisms",
+        "Promotes Machine Innovation"
+    ],
+    [
+        "Division of Labour",
+        "Agricultural Limitations"
+    ],
+    [
+        "Agricultural Limitations",
+        "Seasonal Constraints"
+    ],
+    [
+        "Agricultural Limitations",
+        "Multi-Role Workers"
+    ],
+    [
+        "Seasonal Constraints",
+        "Slower Agricultural Progress"
+    ],
+    [
+        "Multi-Role Workers",
+        "Slower Agricultural Progress"
+    ],
+    [
+        "Division of Labour",
+        "Societal Benefits"
+    ],
+    [
+        "Societal Benefits",
+        "Increased Overall Wealth"
+    ],
+    [
+        "Societal Benefits",
+        "Improved Living Standards for All"
+    ],
+    [
+        "Division of Labour",
+        "Emerges from Trade Propensity"
+    ],
+    [
+        "Emerges from Trade Propensity",
+        "Animals: Independent, Limited Cooperation"
+    ],
+    [
+        "Emerges from Trade Propensity",
+        "Humans: Interdependent, Need Many Others"
+    ],
+    [
+        "Emerges from Trade Propensity",
+        "Self-Interest Drives Exchange"
+    ],
+    [
+        "Self-Interest Drives Exchange",
+        "Trade from Interest, Not Benevolence"
+    ],
+    [
+        "Emerges from Trade Propensity",
+        "Surplus Exchange Encourages Specialization"
+    ],
+    [
+        "Natural Talent",
+        "Minimal Innate Differences"
+    ],
+    [
+        "Minimal Innate Differences",
+        "Large Gaps from Habit and Education"
+    ],
+    [
+        "Large Gaps from Habit and Education",
+        "Trade Makes Talent Differences Useful"
+    ],
+    [
+        "Emerges from Trade Propensity",
+        "Exchange Benefits"
+    ],
+    [
+        "Exchange Benefits",
+        "Access to Diverse Products"
+    ],
+    [
+        "Exchange Benefits",
+        "Creates 'Common Stock' of Goods"
+    ],
+    [
+        "Division of Labour",
+        "Market & Transport Effects"
+    ],
+    [
+        "Market & Transport Effects",
+        "Small Markets Limit Specialization"
+    ],
+    [
+        "Small Markets Limit Specialization",
+        "People in Villages Multi-Tasking"
+    ],
+    [
+        "Market & Transport Effects",
+        "Water Transport Expands Markets"
+    ],
+    [
+        "Market & Transport Effects",
+        "Land Transport Constraints"
+    ],
+    [
+        "Water Transport Expands Markets",
+        "Coastal Specialization Advantage"
+    ],
+    [
+        "Land Transport Constraints",
+        "Inland Development Lag"
+    ],
+    [
+        "Coastal Specialization Advantage",
+        "Mediterranean Civilizations Flourished"
+    ],
+    [
+        "Coastal Specialization Advantage",
+        "Development Examples"
+    ],
+    [
+        "Development Examples",
+        "Ancient Egypt"
+    ],
+    [
+        "Development Examples",
+        "Bengal"
+    ],
+    [
+        "Development Examples",
+        "China"
+    ],
+    [
+        "Land Transport Constraints",
+        "Underdeveloped Region Examples"
+    ],
+    [
+        "Underdeveloped Regions Examples",
+        "Siberia"
+    ],
+    [
+        "Underdeveloped Regions Examples",
+        "Inland Africa"
+    ],
+    [
+        "Surplus Exchange Encourages Specialization",
+        "Double Coincidence Problem"
+    ],
+    [
+        "Double Coincidence Problem",
+        "Mutual Surplus Requirement"
+    ],
+    [
+        "Mutual Surplus Requirement",
+        "Exchange Mediums"
+    ],
+    [
+        "Exchange Mediums",
+        "Early Commodities like cattle, salt, shells, etc."
+    ],
+    [
+        "Exchange Mediums",
+        "Metal Superiority due to durability, divisibility, and reusability"
+    ],
+    [
+        "Metal Superiority due to durability, divisibility, and reusability",
+        "Raw Metal Bars"
+    ],
+    [
+        "Raw Metal Bars",
+        "Usage Challenges"
+    ],
+    [
+        "Usage Challenges",
+        "Weighing Burden"
+    ],
+    [
+        "Usage Challenges",
+        "Purity Verification"
+    ],
+    [
+        "Usage Challenges",
+        "Coined Money as Solution"
+    ],
+    [
+        "Coined Money as Solution",
+        "Coinage Benefits"
+    ],
+    [
+        "Coinage Benefits",
+        "Certified Purity"
+    ],
+    [
+        "Coinage Benefits",
+        "Certified Weight"
+    ],
+    [
+        "Coined Money as Solution",
+        "Metal Debasement"
+    ],
+    [
+        "Metal Debasement",
+        "Reducing metal content"
+    ],
+    [
+        "Metal Debasement",
+        "Benefitted Debtors"
+    ],
+    [
+        "Metal Debasement",
+        "Harmed Creditors"
+    ],
+    [
+        "Value",
+        "Value in Use"
+    ],
+    [
+        "Value",
+        "Value in Exchange"
+    ],
+    [
+        "Value in Use",
+        "Utility of Object"
+    ],
+    [
+        "Value in Exchange",
+        "Purchasing Power of Object"
+    ]
+]

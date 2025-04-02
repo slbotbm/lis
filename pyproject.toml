@@ -9,5 +9,6 @@ dependencies = [
     "matplotlib>=3.10.1",
     "networkx>=3.4.2",
     "numpy>=2.2.4",
+    "pygraphviz>=1.14",
     "requests>=2.32.3",
 ]
